@@ -47,6 +47,10 @@
         "platform": "arduino:avr:mega",
         "source": "mega_due.cpp"
     },
+    "CANADUINO PLC Series 500": {
+        "platform": "arduino:avr:mega",
+        "source": "PLC500.cpp"
+    },
     "Portenta Machine Control H7": {
         "platform": "arduino:mbed_portenta:envie_m7",
         "source": "machine_control.cpp"
